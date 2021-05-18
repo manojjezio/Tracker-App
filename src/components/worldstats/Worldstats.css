@@ -1,0 +1,25 @@
+.box{
+    height: 100%;
+    width: 250px;
+    float: left;
+    margin-right: 80px;
+
+}
+
+.totalNumbers{
+    font-size: 2.7rem;
+    color:white;
+    font-weight: 700;
+    font-family: 'Nunito';
+    width: 100%;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.about{
+    text-align: center;
+    width: 100%;
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 0px;
+    font-family: 'Nunito';
+}
